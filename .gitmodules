@@ -1,0 +1,6 @@
+[submodule "Gieuda-Server"]
+	path = Gieuda-Server
+	url = https://github.com/kaybenot/Gieuda-Server.git
+[submodule "Gieuda-Client"]
+	path = Gieuda-Client
+	url = https://github.com/kaybenot/Gieuda-Client.git
